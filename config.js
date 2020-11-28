@@ -30,21 +30,21 @@ module.exports = {
     bio: 'はくしかてい。',
     contacts: {
       email: 'hakobe_at_chitose.org',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'hakobera-ss',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: ''
     }
   }
 };

@@ -1,6 +1,6 @@
 ---
 title: ブログ記事のてすと
-date: "2020-11-29T06:30:00I"
+date: "2020-11-28T21:30:00Z"
 template: "post"
 draft: false
 slug: "first-test-of-my-blog"

@@ -3,7 +3,7 @@ title: Humane Typography in the Digital Age copy
 date: "2017-08-19T22:40:32I"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "humane-typography-in-the-digital-age-copy"
 category: "Typography"
 tags:
   - "Design"

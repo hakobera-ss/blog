@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'hakobe',
+    photo: '/photo.png',
+    bio: 'はくしかてい。',
     contacts: {
-      email: '',
+      email: 'hakobe_at_chitose.org',
       facebook: '#',
       telegram: '#',
       twitter: '#',

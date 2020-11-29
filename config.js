@@ -3,13 +3,13 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'blog.chitose.org',
+  subtitle: 'はくしかてい日記。',
+  copyright: '© 2020 hakobe some rights reserved (CC-BY-4.0).',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
-  useKatex: false,
+  googleAnalyticsId: '',
+  useKatex: true,
   menu: [
     {
       label: 'Articles',
@@ -27,12 +27,12 @@ module.exports = {
   author: {
     name: 'hakobe',
     photo: '/photo.png',
-    bio: 'はくしかてい。',
+    bio: 'はくしかてい日記。',
     contacts: {
       email: 'hakobe_at_chitose.org',
       facebook: '',
       telegram: '',
-      twitter: '',
+      twitter: 'hakobe2020',
       github: 'hakobera-ss',
       rss: '',
       vkontakte: '',

@@ -9,8 +9,6 @@ tags:
   - "tek"
   - "Typography"
   - "Web Development"
-description: "ここは本文と関係なく指定できるらしい。便利"
-socialImage: "/media/42-line-bible.jpg"
 ---
 
 まえがき的な何か。

@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.chitose.org',
   pathPrefix: '/',
   title: 'くさをしとねに',
   subtitle: '',
@@ -15,6 +15,7 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
+    /*
     {
       label: 'About me',
       path: '/pages/about'
@@ -23,6 +24,7 @@ module.exports = {
       label: 'Contact me',
       path: '/pages/contacts'
     }
+    */
   ],
   author: {
     name: 'hakobe',
@@ -34,7 +36,7 @@ module.exports = {
       telegram: '',
       twitter: 'hakobe2020',
       github: 'hakobera-ss',
-      rss: '',
+      rss: '/rss.xml',
       vkontakte: '',
       linkedin: '',
       instagram: '',

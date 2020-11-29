@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'blog.chitose.org',
-  subtitle: 'はくしかてい日記。',
+  title: 'くさをしとねに',
+  subtitle: '',
   copyright: '© 2020 hakobe some rights reserved (CC-BY-4.0).',
   disqusShortname: '',
   postsPerPage: 4,
